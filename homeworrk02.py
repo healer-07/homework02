@@ -5,4 +5,4 @@ print(age)
 new_age = (age+5)
 print(new_age)
 is_student ="healer"
-print(is_student)
+print(type(is_student))
